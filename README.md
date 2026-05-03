@@ -25,8 +25,8 @@ Controls the AC as a standard `climate` entity: power, mode, target temperature,
 ### Option A — HACS (recommended)
 
 1. In HACS → Integrations → ⋮ → Custom repositories
-2. Add `https://github.com/YOUR_USERNAME/koviet-ha` with category **Integration**
-3. Search for "KOVIET AC" and install
+2. Add `https://github.com/matheus2308/koviet-ha` with category **Integration**
+3. Click **Download** on the KOVIET AC card
 4. Restart Home Assistant
 
 ### Option B — Manual
@@ -259,7 +259,7 @@ The app also calls a REST API on the same host for login and device management. 
 
 This integration targets the **I4SEASON** IoT platform (`iotsapp.ikoviet.com`). Other brands that use this platform should work with the same integration and credentials extraction process.
 
-If you have a different brand that uses the same platform, please open a [compatibility report](https://github.com/YOUR_USERNAME/koviet-ha/issues/new?template=new_model.md) — even just to confirm it works.
+If you have a different brand that uses the same platform, please open a [compatibility report](https://github.com/matheus2308/koviet-ha/issues/new?template=new_model.md) — even just to confirm it works.
 
 Known to work: KOVIET A1 series.
 
