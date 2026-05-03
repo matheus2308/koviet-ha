@@ -1,0 +1,9 @@
+{
+  "domain": "koviet_ac",
+  "name": "KOVIET AC",
+  "version": "1.0.0",
+  "requirements": ["paho-mqtt>=2.0.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_push"
+}

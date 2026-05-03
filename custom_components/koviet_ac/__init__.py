@@ -1,0 +1,1 @@
+DOMAIN = "koviet_ac"
